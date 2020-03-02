@@ -94,6 +94,7 @@
     <Compile Include="Assets\Region_Capture\Scripts\RC_Tools.cs" />
     <Compile Include="Assets\Region_Capture\Scripts\Region_Capture.cs" />
     <Compile Include="Assets\Region_Capture\Scripts\RenderTextureCamera.cs" />
+    <Compile Include="Assets\Share.cs" />
     <Compile Include="Assets\Vuforia\Scripts\BackgroundPlaneBehaviour.cs" />
     <Compile Include="Assets\Vuforia\Scripts\CloudRecoBehaviour.cs" />
     <Compile Include="Assets\Vuforia\Scripts\CylinderTargetBehaviour.cs" />
@@ -135,6 +136,7 @@
     <Compile Include="Assets\Vuforia\Scripts\WireframeBehaviour.cs" />
     <Compile Include="Assets\Vuforia\Scripts\WireframeTrackableEventHandler.cs" />
     <Compile Include="Assets\Vuforia\Scripts\WordBehaviour.cs" />
+    <Compile Include="Assets\button.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\Plugins\Android\AndroidManifest.xml" />
